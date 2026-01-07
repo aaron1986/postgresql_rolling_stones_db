@@ -2,12 +2,21 @@
     To access the db use 'psql -d rolling_stones_db'
         rolling_stones_db=> \dt
             SELECT * FROM rolling_stones LIMIT 5;
+
 (2) npm i react-router-dom import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+
 (3) npm install express.
+
 (4) created the controller, model and view files.
+
 (5) I created a new folder called db and place a newly created file called index.js inside the folder
+
 (6) I installed cors in the terminal
-(7) I created a new folder called backend and placed newly created files called app.js and server.js inside. (8) I created the following folders and files inside the backend folder: controllers -> album.constoller.js, db -> index.js, models -> album.models.js, routes -> album.routes.js
+
+(7) I created a new folder called backend and placed newly created files called app.js and server.js inside. 
+
+(8) I created the following folders and files inside the backend folder: controllers -> album.constoller.js, db -> index.js, models -> album.models.js, routes -> album.routes.js
+
 (9) I created a new file called 'seed_rolling_stones.sql'
 
 
